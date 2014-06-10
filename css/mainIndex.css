@@ -1,0 +1,44 @@
+#header {
+	width : 1350px;
+	height: 200px;
+	margin : 0px;
+	color : white;
+	line-height :100px;
+	text-align : center
+	
+}
+#title {
+	position : absolute;
+	color :white;
+	top : 10px;
+	width : 25%;
+	/*background :rgba(0,0,0,0.7);	*/
+	left : 35%;	
+}
+#cover {
+	position :relative;
+	height : 200px;
+	width : 100%;	
+	top : 0px;
+}
+.body{
+	height:433px;
+	width :70%;
+	display : inline-block;
+}
+#left {
+	border : 1px white solid;
+	border-top :0px;
+	border-left : 0px;
+	border-bottom: 0px;
+	width : 25%;
+	display : inline-block;
+	float :left
+}
+
+#rightData {
+	display : inline-block
+}
+p {
+	color: rgb(255,255,255);
+}
